@@ -1,0 +1,27 @@
+# Node.js dependencies
+node_modules/
+
+# Environment variables
+.env
+
+# IDE files
+.vscode/
+.idea/
+
+# Logs
+logs/
+*.log
+
+# Test coverage
+coverage/
+
+# Build artifacts
+build/
+dist/
+
+# Package files
+package-lock.json
+
+# OS files
+.DS_Store
+Thumbs.db
